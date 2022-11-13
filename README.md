@@ -1,6 +1,6 @@
 <a href="https://twitter.com/daniel_exploit" target="_blank" rel="nofollow"><img align="right" alt="Daniel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
-## Hi 👋 I am Daniel! 
+## Hi 👋 I am Daniele! 
 I am a Python Hobbyist 
 
 
